@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A2</string>
+    <string name="find_location_btn">Find Location</string>
+    <string name="appName">Location Finder</string>
+    <string name="display_address">Finding Address</string>
+    <string name="et_lat">Enter Latitude</string>
+    <string name="et_long">Enter Longitude</string>
+    <string name="lbl_long">Longitude:</string>
+    <string name="lbl_lat">Latitude:</string>
+
+</resources>
